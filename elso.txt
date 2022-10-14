@@ -1,1 +1,2 @@
 Ez  kezdett fájl ebbe a repositoryban!
+Ezt egy privát repositoryként hoztam létre.
